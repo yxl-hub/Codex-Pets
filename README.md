@@ -31,6 +31,8 @@ cp -R pets/xiao-ji-zai "$HOME/.codex/pets/"
 
 图集遵循 Codex 桌宠的 8 列 x 9 行结构，状态顺序为：
 
+![小鸡仔桌宠图集](spritesheet.png)
+
 1. `idle`：单手转球，保持轻微待机动效。
 2. `running-right`：背面朝前半蹲摆动，带铁山靠式节奏。
 3. `running-left`：`running-right` 的镜像方向动作。
